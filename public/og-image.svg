@@ -1,0 +1,18 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#050505"/>
+  <rect x="40" y="40" width="1120" height="550" rx="28" fill="url(#paint0_linear)" fill-opacity="0.14" stroke="#2A2A2A"/>
+  <circle cx="930" cy="160" r="180" fill="#FF1E1E" fill-opacity="0.22"/>
+  <circle cx="930" cy="160" r="240" fill="#FF1E1E" fill-opacity="0.08"/>
+  <path d="M90 470H520" stroke="#FF3030" stroke-width="2" stroke-dasharray="8 8"/>
+  <text x="90" y="220" fill="white" font-family="Arial, sans-serif" font-size="78" font-weight="700">Gagandeep</text>
+  <text x="90" y="305" fill="#FF3030" font-family="Arial, sans-serif" font-size="34" font-weight="700">MERN Stack Developer</text>
+  <text x="90" y="372" fill="#9A9A9A" font-family="Arial, sans-serif" font-size="28">Premium interactive portfolio built with Next.js and Motion.</text>
+  <text x="90" y="430" fill="#9A9A9A" font-family="Arial, sans-serif" font-size="24">React | Next.js | Node.js | APIs | Tailwind CSS</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="40" y1="40" x2="1160" y2="590" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#FF1E1E" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+</svg>
+EOF~
