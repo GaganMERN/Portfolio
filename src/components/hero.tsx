@@ -83,12 +83,12 @@ export function Hero() {
                   <div className="absolute inset-x-8 top-4 h-16 rounded-full bg-[#ff3030]/15 blur-3xl" />
                   <div className="relative aspect-[3/5] overflow-hidden rounded-[1.3rem] border border-white/10 bg-[#101010]">
                     <Image
-                      src="/gagandeep-portrait.png"
+                      src="/Profile.jpeg"
                       alt={`${profile.name} portrait`}
                       fill
                       priority
                       sizes="(max-width: 2024px) 150vw, 800px"
-                      className="object-contain object-center p-0"
+                      className="object-cover object-center p-0"
                     />
                   </div>
                 </div>
