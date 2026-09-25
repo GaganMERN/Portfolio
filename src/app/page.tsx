@@ -4,6 +4,7 @@ import { Capabilities } from "@/components/capabilities";
 import { Contact } from "@/components/contact";
 import { CustomCursor } from "@/components/custom-cursor";
 import { Education } from "@/components/education";
+import { DownloadResume } from "@/components/download-resume";
 import { ExperienceTimeline } from "@/components/experience-timeline";
 import { Footer } from "@/components/footer";
 import { Hero } from "@/components/hero";
@@ -25,6 +26,7 @@ export default function Home() {
         <ProjectShowcase />
         <Capabilities />
         <Education />
+        <DownloadResume />
         <Contact />
         <Footer />
       </div>
