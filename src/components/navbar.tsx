@@ -80,7 +80,7 @@ export function Navbar() {
       >
         <div className="mx-auto flex max-w-7xl items-center justify-between rounded-full border border-white/10 bg-black/55 px-4 py-3 backdrop-blur-xl sm:px-6">
           <Link href="/" onClick={(e) => handleNavClick(e, "home")} className="inline-flex items-center gap-3 text-sm font-semibold text-white">
-            <span className="relative h-9 w-9 overflow-hidden rounded-full border border-white/10 bg-white/5">
+            {/* <span className="relative h-9 w-9 overflow-hidden rounded-full border border-white/10 bg-white/5">
               <Image
                 src="/profileicon.png!sw800"
                 alt="Gagandeep logo"
@@ -88,7 +88,7 @@ export function Navbar() {
                 sizes="36px"
                 className="object-cover"
               />
-            </span>
+            </span> */}
             <span className="text-xs tracking-[0.22em] sm:text-sm">Gagandeep</span>
           </Link>
           <nav className="hidden items-center gap-2 lg:flex">
